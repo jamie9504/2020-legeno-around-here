@@ -44,8 +44,7 @@ VALUES (1, '비싼 음식 냠냠쓰', '비싼 음식 냠냠 나야나', 'PUBLISH
        (20, '월급 루팡16', '이 구역에 월급 루팡은 바로 나', 'APPROVED', 'Mock 데이터', 2, 1, now(), now()),
        (21, '월급 루팡17', '이 구역에 월급 루팡은 바로 나', 'APPROVED', 'Mock 데이터', 2, 1, now(), now()),
        (22, '월급 루팡18', '이 구역에 월급 루팡은 바로 나', 'APPROVED', 'Mock 데이터', 2, 1, now(), now()),
-       (23, '월급 루팡19', '이 구역에 월급 루팡은 바로 나', 'APPROVED', 'Mock 데이터', 2, 1, now(), now()),
-       (24, '월급 루팡20', '이 구역에 월급 루팡은 바로 나', 'APPROVED', 'Mock 데이터', 2, 1, now(), now());
+       (23, '월급 루팡19', '이 구역에 월급 루팡은 바로 나', 'APPROVED', 'Mock 데이터', 2, 1, now(), now());
 
 INSERT INTO Post(id, writing, state, area_id, sector_id,
                  creator_id, created_at, modified_at)
